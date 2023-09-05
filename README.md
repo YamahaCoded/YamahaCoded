@@ -4,7 +4,7 @@
 
 </div>
 
-<div align=left>
+<div align=center>
   
 hi, i’m @YamahaCoded    
 i’m interested in comp-sci    
