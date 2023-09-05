@@ -1,15 +1,21 @@
 <div align=center>
+  
 # hewwo, world !!
+
 </div>
 
 <div align=left>
+  
 hi, i’m @YamahaCoded    
 i’m interested in comp-sci    
 i’m currently learning GO and C++    
+
 </div>
 
 <div align=right>
+  
 ![image](https://imgur.com/CzGWxDK.gif)
+
 </div>
 
 
