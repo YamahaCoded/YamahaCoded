@@ -1,5 +1,3 @@
-<div align=center>
-  
 # hewwo, world !!
 
 </div>
@@ -13,7 +11,6 @@ i love coding and i'm doing the best i can to improve my coding skills
 
 ![image](https://imgur.com/CzGWxDK.gif)
 
-</div>
 
 
 
