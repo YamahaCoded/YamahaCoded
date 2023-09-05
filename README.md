@@ -9,7 +9,7 @@
 hi, i’m @YamahaCoded    
 i’m interested in comp-sci    
 i’m currently learning GO and C++    
-i love coding and i'm doing the best i can    
+i love coding and i'm doing the best i can to improve my coding skills    
 
 ![image](https://imgur.com/CzGWxDK.gif)
 
