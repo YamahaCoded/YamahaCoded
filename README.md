@@ -10,8 +10,6 @@ hi, i’m @YamahaCoded
 i’m interested in comp-sci    
 i’m currently learning GO and C++    
 
-<img height="160em" src="https://imgur.com/CzGWxDK.gif"/>
-
 ![image](https://imgur.com/CzGWxDK.gif)
 
 </div>
