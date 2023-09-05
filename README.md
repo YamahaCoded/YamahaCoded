@@ -1,7 +1,6 @@
 # hewwo, world !!
 
-
-[![Cats](https://imgur.com/CzGWxDK)]]
+![Alt text]([URL or file path](https://imgur.com/CzGWxDK))
 
 - 👋 Hi, I’m @YamahaCoded
 - 👀 I’m interested in ...
