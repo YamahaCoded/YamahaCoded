@@ -2,11 +2,9 @@
 
 ![image](https://imgur.com/CzGWxDK.gif)
 
-- 👋 Hi, I’m @YamahaCoded
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- hi, I’m @YamahaCoded
+- i’m interested in comp-sci
+- i’m currently learning GO and C++
 
 <!---
 YamahaCoded/YamahaCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
