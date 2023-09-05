@@ -6,11 +6,11 @@
 
 <div align=center>
   
-hi, i’m @YamahaCoded    ![image](https://imgur.com/CzGWxDK.gif)
+hi, i’m @YamahaCoded    
 i’m interested in comp-sci    
 i’m currently learning GO and C++    
   
-
+![image](https://imgur.com/CzGWxDK.gif)
 
 </div>
 
