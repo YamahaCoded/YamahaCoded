@@ -1,3 +1,5 @@
+<div align=center>
+
 # hewwo, world !!
 
 hi, I’m @YamahaCoded  
@@ -6,7 +8,7 @@ i’m currently learning GO and C++
 
 
 ![image](https://imgur.com/CzGWxDK.gif)
-
+</div>
 
 
 <!---
