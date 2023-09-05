@@ -1,6 +1,6 @@
 # hewwo, world !!
 
-![Alt text]([URL or file path](https://imgur.com/CzGWxDK))
+![Alt text]([URL or file path](https://imgur.com/CzGWxDK.gif))
 
 - 👋 Hi, I’m @YamahaCoded
 - 👀 I’m interested in ...
