@@ -1,9 +1,5 @@
 # hewwo, world !!
 
-</div>
-
-<div align="center">
-  
 hi, i’m @YamahaCoded    
 i’m interested in comp-sci    
 i’m currently learning GO and C++    
