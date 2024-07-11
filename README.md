@@ -1,10 +1,11 @@
 # こんにちは、世界！
 
-Hello, i’m @YamahaCoded  
+Hi, i’m @YamahaCoded  
 I’ve been interested in data science and cyber security  
 Now i'm currently learning Python and C++  
 Coding has been my main passion since i was 12  
-I speak portuguese, english, spanish and currently i'm working on japanese    
+I speak portuguese, english, spanish and currently i'm working on japanese  
+Feel free to explore my repositories  
 
 ![image](https://imgur.com/CzGWxDK.gif)
 
