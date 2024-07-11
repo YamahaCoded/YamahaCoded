@@ -1,6 +1,6 @@
-#「こんにちは、世界！」
+# 「こんにちは、世界！」
 
-hi, i’m @YamahaCoded  
+i’m @YamahaCoded  
 i’m interested in data science and cyber security  
 i’m currently learning Python and C++  
 i speak portuguese, english, spanish and currently i'm working on japanese  
