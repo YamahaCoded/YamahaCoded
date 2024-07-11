@@ -1,4 +1,4 @@
-# 「こんにちは、世界！」
+# こんにちは、世界！
 
 i’m @YamahaCoded  
 i’m interested in data science and cyber security, currently learning Python and C++  
