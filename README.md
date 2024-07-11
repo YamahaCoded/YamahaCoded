@@ -1,7 +1,8 @@
 # こんにちは、世界！
 
 i’m @YamahaCoded  
-i’m interested in data science and cyber security, currently learning Python and C++  
+i’ve been interested in data science and cyber security  
+now i'm currently learning Python and C++  
 coding has been my main passion since i was 12  
 i speak portuguese, english, spanish and currently i'm working on japanese    
 
