@@ -3,7 +3,7 @@
 hi, i’m @YamahaCoded    
 i’m interested in data science and cyber security     
 i’m currently learning Python and C++    
-i love coding and i'm doing the best i can to improve my coding skills    
+coding has been my passion since i was 12    
 
 ![image](https://imgur.com/CzGWxDK.gif)
 
