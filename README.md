@@ -2,7 +2,7 @@
 
 Hi, i’m @YamahaCoded  
 I’ve been interested in data science and malware analysis  
-Now i'm currently learning Python and C++  
+My main programming languages now are Python and C/C++  
 Coding has been my main passion since i was 12  
 I speak portuguese, english, spanish and currently i'm working on japanese  
 Feel free to explore my repositories  
