@@ -12,6 +12,8 @@
 
 <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
+
 
 <!---
 YamahaCoded/YamahaCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
