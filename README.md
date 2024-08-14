@@ -6,6 +6,7 @@
     - I speak portuguese, english, spanish and currently i'm working on japanese<br>
     - Feel free to explore my repositories<br>
     </p>
+    <br><br><br>
     <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
 </div>
 
