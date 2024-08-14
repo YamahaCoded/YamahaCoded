@@ -10,6 +10,7 @@
     <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
 </div>
 
+<hr class="solid">
 
 
 
