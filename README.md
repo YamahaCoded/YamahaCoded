@@ -9,7 +9,7 @@ Feel free to explore my repositories
 
 ![image](https://imgur.com/CzGWxDK.gif)  
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=dark)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark_dimmed)
 
 <!---
 YamahaCoded/YamahaCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
