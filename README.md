@@ -4,7 +4,7 @@
 Hi, i’m @YamahaCoded
 
 I’ve been interested in data science, malware analysis and game development  
-My main programming languages now are Python and C/C++  
+My main programming languages are Python, GO and C/C++  
 Coding has been my main passion since i was 12  
 I speak portuguese, english, spanish and currently i'm working on japanese  
 Feel free to explore my repositories  
