@@ -1,6 +1,6 @@
 # こんにちは、世界！
 
-<p align="center">
+<p align="left">
 - Hi, i’m @YamahaCoded<br>
 - I’ve been interested in data science, malware analysis and game development<br>
 - My main programming languages are Python, GO and C/C++<br>
@@ -10,7 +10,7 @@
 </p>
 
 
-<img src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
+<img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark)
 
