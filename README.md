@@ -10,7 +10,8 @@
 </div>
 
 <h2>Github Stats</h2> 
-<img align="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
+<img align="left" src= "https://github-readme-stats.vercel.app/api?username=YamahaCoded&layout=compact&theme=github_dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
 
 
 
