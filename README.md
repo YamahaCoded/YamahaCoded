@@ -4,12 +4,12 @@
     - Hi, i’m @YamahaCoded<br>
     - I’ve been interested in data science and game development<br>
     - I speak portuguese, english, spanish and currently i'm working on japanese<br>
+    <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
     - Feel free to explore my repositories<br>
     </p>
-    <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
 </div>
-<h1> </h1> 
 
+<h2>Github Stats</h2> 
 <img align="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
 
 
