@@ -8,7 +8,7 @@ I speak portuguese, english, spanish and currently i'm working on japanese
 Feel free to explore my repositories  
 
 ![image](https://imgur.com/CzGWxDK.gif)
-
+<p style="text-align: center;">
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=radical)
 
 
