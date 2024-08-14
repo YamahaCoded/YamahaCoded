@@ -3,8 +3,8 @@
     <p align="left">
     - Hi, i’m @YamahaCoded<br>
     - I’ve been interested in data science and game development<br>
-    - I speak portuguese, english, spanish and currently i'm working on japanese<br>
     <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
+    - I speak portuguese, english, spanish and currently i'm working on japanese<br>
     - Feel free to explore my repositories<br>
     </p>
 </div>
