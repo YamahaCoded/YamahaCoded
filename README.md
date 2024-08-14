@@ -1,8 +1,7 @@
 # こんにちは、世界！
 
 
-Hi, i’m @YamahaCoded
-
+Hi, i’m @YamahaCoded  
 I’ve been interested in data science, malware analysis and game development  
 My main programming languages are Python, GO and C/C++  
 Coding has been my main passion since i was 12  
