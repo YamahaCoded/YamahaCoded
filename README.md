@@ -9,6 +9,8 @@ Feel free to explore my repositories
 
 ![image](https://imgur.com/CzGWxDK.gif)
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=radical)
+
 
 
 
