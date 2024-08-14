@@ -8,8 +8,9 @@ Coding has been my main passion since i was 12
 I speak portuguese, english, spanish and currently i'm working on japanese  
 Feel free to explore my repositories  
 
+<img src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
 
-![image](https://imgur.com/CzGWxDK.gif)  
+![image]()  
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark)
 
