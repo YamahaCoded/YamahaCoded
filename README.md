@@ -8,6 +8,7 @@
     - Feel free to explore my repositories<br>
     </p>
     <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
+    <br>
 </div>
 
 <div align="left">
