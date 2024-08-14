@@ -1,12 +1,14 @@
 # こんにちは、世界！
 
+<p>
+Hi, i’m @YamahaCoded<br>
+I’ve been interested in data science, malware analysis and game development<br>
+My main programming languages are Python, GO and C/C++<br>
+Coding has been my main passion since i was 12<br>
+I speak portuguese, english, spanish and currently i'm working on japanese<br>
+Feel free to explore my repositories<br>
+</p>
 
-Hi, i’m @YamahaCoded  
-I’ve been interested in data science, malware analysis and game development  
-My main programming languages are Python, GO and C/C++  
-Coding has been my main passion since i was 12  
-I speak portuguese, english, spanish and currently i'm working on japanese  
-Feel free to explore my repositories  
 
 <img src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
 
