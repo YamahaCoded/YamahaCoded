@@ -11,8 +11,8 @@
     <br>
 </div>
 
-<div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
+<div align="right">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
 </div>
 
 
