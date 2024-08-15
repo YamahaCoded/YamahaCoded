@@ -13,10 +13,13 @@
 <div>
     <img align="left" src= "https://github-readme-stats.vercel.app/api?username=YamahaCoded&layout=compact&theme=github_dark">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
+    <br>
 </div>
 
-
-
+<h2>Technologies</h2>
+<div>
+    <img align="left" src="https://i.imgur.com/dnLc6BK.png">
+</div>
 <!---
 YamahaCoded/YamahaCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
