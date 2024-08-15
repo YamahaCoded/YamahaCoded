@@ -15,7 +15,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=YamahaCoded&layout=compact&theme=github_dark_dimmed&hide=prs">
 </div>
 
-<h2>Technologies</h2> 
+<h2 align="left">Technologies</h2> 
 <div>
     <h2>
         <img src="https://i.imgur.com/dnLc6BK.png" width=88 height=86>
