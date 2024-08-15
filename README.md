@@ -18,7 +18,9 @@
 <h2>Technologies</h2> 
 <div>
     <h2>
-        <img src="https://i.imgur.com/dnLc6BK.png" width=96 height=96>
+        <img src="https://i.imgur.com/dnLc6BK.png" width=88 height=86>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width=171 height=80>
+        <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width=76 height=76>
     </h2>
 </div>
 
