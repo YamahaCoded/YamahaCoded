@@ -4,7 +4,7 @@
     - Hi, i’m @YamahaCoded<br>
     - I’ve been interested in data science and game development<br>
     <img align="right" src="https://imgur.com/CzGWxDK.gif" alt="Cats on Fire Place">
-    - I speak portuguese, english, spanish and currently i'm working on japanese<br>
+    - I speak portuguese, english, spanish and currently i'm working on japanese N5<br>
     - Feel free to explore my repositories<br>
     </p>
 </div>
