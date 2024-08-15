@@ -11,8 +11,8 @@
 
 <h2>Github Stats</h2> 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=YamahaCoded&layout=compact&theme=github_dark&hide=prs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamahaCoded&layout=compact&langs_count=6&theme=github_dark_dimmed">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=YamahaCoded&layout=compact&theme=github_dark_dimmed&hide=prs">
 </div>
 
 <h2>Technologies</h2> 
