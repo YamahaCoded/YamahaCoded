@@ -21,7 +21,8 @@
         <img src="https://i.imgur.com/dnLc6BK.png" width=88 height=86>
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width=164 height=72>
         <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width=76 height=76>
-        <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width=76 height=76>
+        <img src="https://i.imgur.com/mIRADeo.png" width=76 height=76>
+        <img src="https://i.imgur.com/mMCTijX.png" width=76 height=76>
     </h2>
 </div>
 
